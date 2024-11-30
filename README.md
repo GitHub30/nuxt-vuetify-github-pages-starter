@@ -48,4 +48,10 @@ npx nuxi@latest module add vuetify-nuxt-module
 # Add https://github.com/GitHub30/nuxt-vuetify-github-pages-starter/blob/main/.github/workflows/deploy.yml
 # Add https://github.com/GitHub30/nuxt-vuetify-github-pages-starter/blob/main/.devcontainer/devcontainer.json
 ```
+
+Get started with Vuetify 3
+https://vuetifyjs.com/en/getting-started/installation/#manual-setup
+
+Deploy Nuxt to GitHub Pages
+https://nuxt.com/deploy/github-pages
 </details>
