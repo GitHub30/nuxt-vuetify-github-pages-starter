@@ -24,8 +24,11 @@
 <details><summary>4. Goto Actions > Deploy to GitHub Pages > Run workflow</summary>
 
 ![image](https://github.com/user-attachments/assets/9c133641-b2b9-4cd2-a076-0f8f4613c175)
-Published to `https://<username>.github.io/<repository>/`
+Published to `https://<username>.github.io/<repository>/`.
 ![image](https://github.com/user-attachments/assets/98211736-a675-4911-b7db-94800508ddfd)
+
+If you are using a custom domain or `https://<username>.github.io/`, remove NUXT_APP_BASE_URL
+https://github.com/GitHub30/nuxt-vuetify-github-pages-starter/blob/5e3a16a08970477912fe8d7684499041d6e3f461/.github/workflows/deploy.yml#L19-L22
 </details>
 
 ## Develop
