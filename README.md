@@ -1,5 +1,7 @@
 # Nuxt Vuetify GitHub Pages Minimal Starter
 
+[Demo](https://youtu.be/vrkbt1L4VJI)
+
 # How to use
 
 ## Deploy
