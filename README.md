@@ -2,7 +2,14 @@
 
 [Demo](https://youtu.be/vrkbt1L4VJI)
 
-# How to use
+# What's this
+
+- Nuxt: `npx --yes nuxi@latest init --packageManager npm --gitInit .`
+- Vuetify: `npx nuxi@latest module add vuetify-nuxt-module`
+- GitHub Actions: https://nuxt.com/deploy/github-pages
+- GitHub Codespaces: [devcontainer.json](.devcontainer/devcontainer.json)
+
+# Usage
 
 ## Deploy
 
@@ -61,6 +68,10 @@ npx nuxi@latest module add vuetify-nuxt-module
 # Add https://github.com/GitHub30/nuxt-vuetify-github-pages-starter/blob/main/.github/workflows/deploy.yml
 # Add https://github.com/GitHub30/nuxt-vuetify-github-pages-starter/blob/main/.devcontainer/devcontainer.json
 ```
+
+## License
+
+[MIT](./LICENSE) - Made with 💚
 
 Get started with Vuetify 3
 https://vuetifyjs.com/en/getting-started/installation/#manual-setup
