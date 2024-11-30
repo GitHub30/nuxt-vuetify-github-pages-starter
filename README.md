@@ -43,6 +43,14 @@ https://github.com/GitHub30/nuxt-vuetify-github-pages-starter/blob/5e3a16a089704
 ![image](https://github.com/user-attachments/assets/1185559a-a202-4cd8-b482-d41983443ad5)
 </details>
 
+# Documents
+
+Nuxt https://nuxt.com/
+
+Vuetify https://vuetifyjs.com/
+
+Vuetify Nuxt Module https://nuxt.vuetifyjs.com/
+
 # Contribution
 
 <details><summary>How to create this repository</summary>
