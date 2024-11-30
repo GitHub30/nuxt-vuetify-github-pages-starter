@@ -58,24 +58,6 @@ Vuetify https://vuetifyjs.com/
 
 Vuetify Nuxt Module https://nuxt.vuetifyjs.com/
 
-# Contribution
-
-<details><summary>How to create this repository</summary>
-  
-```bash
-npx --yes nuxi@latest init --packageManager npm --gitInit .
-npx nuxi@latest module add vuetify-nuxt-module
-# Add https://github.com/GitHub30/nuxt-vuetify-github-pages-starter/blob/main/.github/workflows/deploy.yml
-# Add https://github.com/GitHub30/nuxt-vuetify-github-pages-starter/blob/main/.devcontainer/devcontainer.json
-```
-
-Get started with Vuetify 3
-https://vuetifyjs.com/en/getting-started/installation/#manual-setup
-
-Deploy Nuxt to GitHub Pages
-https://nuxt.com/deploy/github-pages
-</details>
-
 ## License
 
 [MIT](./LICENSE) - Made with 💚
